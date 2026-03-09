@@ -3,7 +3,7 @@
 ### 🚀 Senior Software Engineer | Full‑Stack Developer  
 
 💡 Passionate about building scalable systems, improving user experience, and contributing to impactful projects.  
-With 5+ years of experience in **ReactJS, Golang, Node.js, Docker, and Kubernetes**, I specialize in **self‑checkout solutions, payment integrations, and performance optimization**.  
+With nearly 5 years of experience in **ReactJS, Golang, Node.js, Docker, and Kubernetes**, I specialize in **self‑checkout solutions, payment integrations, and performance optimization**.  
 
 ---
 
@@ -22,8 +22,8 @@ With 5+ years of experience in **ReactJS, Golang, Node.js, Docker, and Kubernete
 
 ## 📈 GitHub Stats  
 
-![Naveenkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Naveenkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dnk12652&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnk12652&layout=compact&theme=radical)  
 
 ---
 
